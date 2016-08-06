@@ -1,15 +1,15 @@
-typography_spectrum: 0.9584019889589399
+typography_spectrum: 0.572781075257808
 color:
-  brandStrength: 0.8456478959415108
-  lightness: 0.19054390932433307
-  saturation: 0.6057417984120548
-  rhythmicContrast: 0.3309489672537893
+  brandStrength: 0.14137505600228906
+  lightness: 0.1070161540992558
+  saturation: 0.42717489157803357
+  rhythmicContrast: 0.900933564407751
   brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
+    - '#00050B'
+    - '#FFFFFF'
+    - '#92CAFC'
+    - '#459BD2'
+    - '#26464D'
 layout_spectrum: 0.3158705784007907
 name: Real Estate Segregation Services
 title: 'Cost Segregation '
